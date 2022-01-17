@@ -77,4 +77,4 @@ This is a MATLAB script to run locally. It communicates and retrieves ambient se
 vi. ThingSpeak IoT MATLAB script and Visualizations can be accessed using the following details
 
   
-![image](https://user-images.githubusercontent.com/93744962/149738121-4c45a195-05bc-4b19-83c1-77d51c3ed833.png)
+![image](https://user-images.githubusercontent.com/93744962/149738442-c98a053c-9c2c-498a-b8b1-14ec32c999d6.png)
