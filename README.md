@@ -1,6 +1,5 @@
 # Embedded-Home-Security-System-Design-and-Development
 
-
 1.	Introduction 
 
 This is an embedded systems based home security system built on the basis of several specific software and hardware tools. The hardware and software resources that are needed to run and observe the functionalities of this project are listed as follows. 
@@ -26,8 +25,6 @@ b.	Hardware Tools
 Configure and interface with boosterpack peripherals based on the port pin alignment between msp432p4111 launchpad and boosterpack
 
 2.	System Architecture
-
- ![image](https://user-images.githubusercontent.com/93744962/149738196-613a5b05-d141-4258-9505-c13b4c9298cf.png)
 
 
 
@@ -77,4 +74,3 @@ This is a MATLAB script to run locally. It communicates and retrieves ambient se
 vi. ThingSpeak IoT MATLAB script and Visualizations can be accessed using the following details
 
   
-![image](https://user-images.githubusercontent.com/93744962/149738442-c98a053c-9c2c-498a-b8b1-14ec32c999d6.png)
